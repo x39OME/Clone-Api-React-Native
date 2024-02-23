@@ -22,6 +22,7 @@
 - npm install @react-navigation/native-stack
 - npm i react-native-responsive-screen
 - npm i react-native-feather
+- npm install axios
 - ** npx expo install --fix **
 - ** npx expo install **
 ```
