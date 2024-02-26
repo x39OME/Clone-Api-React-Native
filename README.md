@@ -10,6 +10,8 @@
 ### 1- [React Native Expo](https://reactnative.dev/)
 ### 2- [NativeWind](https://www.nativewind.dev/)
 ### 3- [React Navigation](https://reactnavigation.org/)
+### 4- [Rapid Api](https://rapidapi.com/)
+      Youtube v3 - alternative => https://rapidapi.com/ytdlfree/api/youtube-v3-alternative
 
 
 ## Packages
