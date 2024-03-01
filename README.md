@@ -2,9 +2,9 @@
 
 ## Preview Final Project
 
-#### Home Screen
+#### youtube Screen
 
-<img src="./preview/homescreen.jpg" style="width:350px;" alt=" Home" />
+<img src="./preview/youtube.jpg" style="width:350px;" alt=" Home" />
 
 ## What did we use in the project?
 ### 1- [React Native Expo](https://reactnative.dev/)
