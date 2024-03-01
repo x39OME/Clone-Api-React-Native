@@ -4,7 +4,7 @@
 
 #### youtube Screen
 
-<img src="./preview/youtube.jpg" style="width:350px;" alt=" Home" />
+<img src="./preview/youtubescreen.jpg" style="width:350px;" alt="Youtube" />
 
 ## What did we use in the project?
 ### 1- [React Native Expo](https://reactnative.dev/)
